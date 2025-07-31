@@ -1,0 +1,11 @@
+Package: Rfunctions
+Title: Functions for Working in R
+Version: 0.0.0.1000
+Authors@R: 
+    person("Allan", "Hicks", email = "allan.hicks@iphc.int", role = c("aut", "cre"))
+Description: Functions to make it easier to work in R
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
